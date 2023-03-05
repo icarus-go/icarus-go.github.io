@@ -1,4 +1,4 @@
-baseURL = 'https://icarus-go.github.io/public'
+baseURL = 'https://icarus-go.github.io'
 languageCode = 'zh-CN'
 title = 'Mr.Quinson Blog'
 theme = 'paper'
@@ -11,8 +11,9 @@ isqusShortname = 'Quinson'   # use disqus comments
 color = 'linen'                           # linen, wheat, gray, light
 
 # header social icons
-twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
+twitter = 'YOUR_TWI
+TTER_ID'               # twitter.com/YOUR_TWITTER_ID
+github = 'icarus-go'                 # github.com/YOUR_GITHUB_ID
 instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
 mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
 rss = true                                # show rss icon

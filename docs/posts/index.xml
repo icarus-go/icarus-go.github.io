@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mr.Quinson Blog</title>
-    <link>https://icarus-go.github.io/public/posts/</link>
+    <link>https://icarus-go.github.io/posts/</link>
     <description>Recent content in Posts on Mr.Quinson Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Mar 2023 01:45:24 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 01:45:24 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://icarus-go.github.io/public/posts/introduction/</link>
+      <link>https://icarus-go.github.io/posts/introduction/</link>
       <pubDate>Mon, 06 Mar 2023 01:45:24 +0800</pubDate>
       
-      <guid>https://icarus-go.github.io/public/posts/introduction/</guid>
+      <guid>https://icarus-go.github.io/posts/introduction/</guid>
       <description>Coder package main import &amp;#34;fmt&amp;#34; func main() { var skill = []string{ &amp;#34;Go&amp;#34;, &amp;#34;Java&amp;#34;, &amp;#34;Docker&amp;#34;, &amp;#34;Postgres&amp;#34;, &amp;#34;MySQL&amp;#34;, &amp;#34;Redis&amp;#34;, &amp;#34;Kafka&amp;#34;, &amp;#34;RabbitMQ&amp;#34;, &amp;#34;Linux&amp;#34;, &amp;#34;Git&amp;#34;, } fmt.Println(&amp;#34;Name 蔡凯文&amp;#34;) fmt.Println(&amp;#34;Birthday 1996/06/19&amp;#34;) fmt.Println(&amp;#34;Gender Man&amp;#34;) fmt.Println(&amp;#34;Email kevinicarus@163.com&amp;#34;) fmt.Println(&amp;#34;From China GuangDong ShanTou&amp;#34;) fmt.Sprintf(&amp;#34;Skill %v&amp;#34;, skill) } 夕夕是个大笨蛋 </description>
     </item>
     

@@ -4,35 +4,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL">
+    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/highlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/main.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mastodon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/introduction/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/rss.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/theme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/theme.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/introduction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/introduction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +86,9 @@
     <MESSAGE value="feat: init project&#10;&#10;- first commit" />
     <MESSAGE value="feat: init project&#10;&#10;fix:&#10;&#10;- baseURL" />
     <MESSAGE value="feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL" />
+    <MESSAGE value="feat: init project&#10;&#10;fix:&#10;&#10;- fix generate directory to docs" />
+    <MESSAGE value="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
