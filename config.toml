@@ -1,4 +1,4 @@
-baseURL = 'http://icarus-go.github.io/'
+baseURL = 'https://icarus-go.github.io/'
 languageCode = 'zh-CN'
 title = 'Mr.Quinson Blog'
 theme = 'paper'
