@@ -2,8 +2,9 @@ baseURL = 'https://icarus-go.github.io/public'
 languageCode = 'zh-CN'
 title = 'Mr.Quinson Blog'
 theme = 'paper'
-
+publishDir = "docs"
 isqusShortname = 'Quinson'   # use disqus comments
+
 
 [params]
 # color style
