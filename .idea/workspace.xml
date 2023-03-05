@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- baseURL">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/introduction.md" afterDir="false" />
-    </list>
+    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +62,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: init project&#10;&#10;- first commit" />
     <MESSAGE value="feat: init project&#10;&#10;fix:&#10;&#10;- baseURL" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: init project&#10;&#10;fix:&#10;&#10;- baseURL" />
+    <MESSAGE value="feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

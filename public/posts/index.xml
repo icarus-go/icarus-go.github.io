@@ -13,7 +13,7 @@
       <pubDate>Mon, 06 Mar 2023 01:45:24 +0800</pubDate>
       
       <guid>https://icarus-go.github.io/public/posts/introduction/</guid>
-      <description>Coder package main import &amp;#34;fmt&amp;#34; func main() { var skill = []string{ &amp;#34;Go&amp;#34;, &amp;#34;Java&amp;#34;, &amp;#34;Docker&amp;#34;, &amp;#34;Postgres&amp;#34;, &amp;#34;MySQL&amp;#34;, &amp;#34;Redis&amp;#34;, &amp;#34;Kafka&amp;#34;, &amp;#34;RabbitMQ&amp;#34;, &amp;#34;Linux&amp;#34;, &amp;#34;Git&amp;#34;, } fmt.Println(&amp;#34;Name 蔡凯文&amp;#34;) fmt.Println(&amp;#34;Birthday 1996/06/19&amp;#34;) fmt.Println(&amp;#34;Gender Man&amp;#34;) fmt.Println(&amp;#34;Email kevinicarus@163.com&amp;#34;) fmt.Println(&amp;#34;From China GuangDong ShanTou&amp;#34;) fmt.Sprintf(&amp;#34;Skill %v&amp;#34;, skill) } </description>
+      <description>Coder package main import &amp;#34;fmt&amp;#34; func main() { var skill = []string{ &amp;#34;Go&amp;#34;, &amp;#34;Java&amp;#34;, &amp;#34;Docker&amp;#34;, &amp;#34;Postgres&amp;#34;, &amp;#34;MySQL&amp;#34;, &amp;#34;Redis&amp;#34;, &amp;#34;Kafka&amp;#34;, &amp;#34;RabbitMQ&amp;#34;, &amp;#34;Linux&amp;#34;, &amp;#34;Git&amp;#34;, } fmt.Println(&amp;#34;Name 蔡凯文&amp;#34;) fmt.Println(&amp;#34;Birthday 1996/06/19&amp;#34;) fmt.Println(&amp;#34;Gender Man&amp;#34;) fmt.Println(&amp;#34;Email kevinicarus@163.com&amp;#34;) fmt.Println(&amp;#34;From China GuangDong ShanTou&amp;#34;) fmt.Sprintf(&amp;#34;Skill %v&amp;#34;, skill) } 夕夕是个大笨蛋 </description>
     </item>
     
   </channel>
