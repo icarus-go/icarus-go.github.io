@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL">
-      <change afterPath="$PROJECT_DIR$/configTaxo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/introduction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/highlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/mastodon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/introduction/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/rss.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.content" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/ananke/css/main.css_83735de7ca999e9c17f3419b41b93fdb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" />
-    </list>
+    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
