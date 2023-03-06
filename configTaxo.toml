@@ -1,0 +1,31 @@
+timeout = 30000
+enableInlineShortcodes = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[params]
+description = "Quinson blog"
+author = "Quinson"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+    disableInlineCSS = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
