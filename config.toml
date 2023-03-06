@@ -34,7 +34,7 @@ url = "./tags/macos"
 weight = 10
 
 [[menu.main]]
-identifier = "contact"
-name = "Contact me"
-url = "./posts/contact"
+identifier = "tags"
+name = "Menu"
+url = "/tags/"
 weight = 10

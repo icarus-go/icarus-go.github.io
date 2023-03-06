@@ -1,9 +1,11 @@
 +++
 title = "About Me"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+date = "2023-03-06T22:24:35+08:00"
+timezone = "UTC+8"
+tags = ["基础信息"]
+categories = ["基础信息"]
+author = "Quinson"
 weight = 999
 +++
 

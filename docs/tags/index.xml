@@ -6,6 +6,24 @@
     <description>Recent content in Tags on Mr.Quinson Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Mar 2023 22:24:35 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 00:22:52 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacOS</title>
+      <link>https://icarus-go.github.io/tags/macos/</link>
+      <pubDate>Tue, 07 Mar 2023 00:22:52 +0800</pubDate>
+      
+      <guid>https://icarus-go.github.io/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基础信息</title>
+      <link>https://icarus-go.github.io/tags/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</link>
+      <pubDate>Mon, 06 Mar 2023 22:24:35 +0800</pubDate>
+      
+      <guid>https://icarus-go.github.io/tags/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

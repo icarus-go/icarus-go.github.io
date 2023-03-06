@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL" />
+    <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL">
+      <change afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/taxonomy/tag.terms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/builder_log.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/builder_log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/quote/hello.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/quote/hello.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/pc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/pc/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/pc/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/main.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mastodon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/about-hugo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/about-us/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/homebrew/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/rss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/macos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/macos/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/macos/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/theme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/theme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/paper/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/paper/layouts/_default/single.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
