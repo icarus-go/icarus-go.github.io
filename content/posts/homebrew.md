@@ -1,7 +1,6 @@
 ---
 title: "Homebrew下载过慢解决方案"
 date: 2023-03-06T22:24:35+08:00
-draft: true
 timezone: UTC+8
 description: "初始化Mac OS X"
 tags: ["MacOS"]

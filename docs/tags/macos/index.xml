@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MacOS on Mr.Quinson Blog</title>
+    <link>https://icarus-go.github.io/tags/macos/</link>
+    <description>Recent content in MacOS on Mr.Quinson Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 06 Mar 2023 22:24:35 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homebrew下载过慢解决方案</title>
+      <link>https://icarus-go.github.io/posts/homebrew/</link>
+      <pubDate>Mon, 06 Mar 2023 22:24:35 +0800</pubDate>
+      
+      <guid>https://icarus-go.github.io/posts/homebrew/</guid>
+      <description>Switch home brew git repo 切到 homebrew 目录 cd &amp;#34;$(brew --repo)&amp;#34; 如果你需要查看当前目录下,已经使用了哪些源,可以使用, 初始化状态下是 github git remote -v 删除源 git remote rm origin 添加阿里源 git remote add origin https://mirrors.aliyun.com/homebrew/brew.git 切换阿里源 git remote set-url origin https://mirrors.aliyun.com/homebrew/brew.git 切换到 homebrew core 目录 cd &amp;#34;$(brew --repo)/Library/Taps/homebrew/homebrew-core&amp;#34; 删除源 git remote rm origin 更新源 # 添加源 git remote add origin https://mirrors.aliyun.com/homebrew/homebrew-core.git # 切换成阿里源： git remote set-url origin https://mirrors.aliyun.com/homebrew/homebrew-core.git homebrew-bottles (主要负责 cask, 即 GUI ) cd &amp;#34;$(brew --repo)&amp;#34;/Library/Taps/homebrew/homebrew-cask 删除源 git remote rm origin 更新源 阿里云没有提供 cask 源, 下列提供可替换的源 Homebrew 官方源（https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
