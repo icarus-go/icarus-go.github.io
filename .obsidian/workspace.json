@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +149,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "cf66f1f7e8a7b324",
+  "active": "aadc0fea5dc08546",
   "lastOpenFiles": [
     "docs/tags/基础信息/page/1/index.html",
     "docs/tags/macos/page/1/index.html",
