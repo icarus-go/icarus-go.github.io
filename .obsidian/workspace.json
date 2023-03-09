@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7395f180eb259b75",
+        "id": "3580f4c66afec297",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0122e76afec483",
+            "id": "6406c11f9f316c2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,7 +139,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8c0122e76afec483",
+  "active": "6406c11f9f316c2d",
   "lastOpenFiles": [
     "content/macosx/install.md"
   ]
