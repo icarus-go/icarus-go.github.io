@@ -1,0 +1,268 @@
+Index: content/macosx/install.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\ntitle: \"Mac mini 2018 装显卡坞的折腾之旅\"\ndate: 2023-03-07T00:22:52+08:00\ndraft: false\ntags: [\"MacOS\"]\ncategories: [\"PC\"]\nseries: [\"Homebrew\"]\n---
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/content/macosx/install.md b/content/macosx/install.md
+--- a/content/macosx/install.md	(revision df8352da696afabf99a72a48782d6f4e20cbec4c)
++++ b/content/macosx/install.md	(date 1678347589160)
+@@ -4,5 +4,83 @@
+ draft: false
+ tags: ["MacOS"]
+ categories: ["PC"]
+-series: ["Homebrew"]
+----
+\ No newline at end of file
++series: ["硬件"]
++---
++
++# 起因
++
++- 玩 android 模拟器有点卡
++- 用网页云游戏玩的也卡
++- 打开自家开发的 CRM 前端页面也卡
++
++进而怒从胆边生，决定购置一款显卡，但是我是 Mac mini, 只能选择外接显卡的方式了。
++
++- 凭借 CS （叉腰）专业，决定先买一款显卡坞，刚好了解到 B 站有 Up 主自制了一款显卡坞，所以决定入手一试。
++
++# 经过
++
++## 选显卡坞
++
++- 市面上有很多款显卡坞，有的支持 1660X 以上的，也有的不支持的。
++- 我大概扫了一眼，觉得稍微好看一点（装逼）的都要 2k 左右，实在不符合我的人设（贫穷），所以我看到 `逍遥君` 自制的 这款显卡坞，我才觉得是那么亲切（便宜），性能还挺高，损耗也比较少（我没实测，我不在乎损耗，大概上感觉不会比贵东西差多少），按照 `逍遥君`的说法是，比一般的显卡坞更强。
++- 毫无疑问，就它了。
++
++
++testing ....
++sdsdasds
++
++
++## 选显卡
++
++- 结论
++> 我买了 RX 580 2048 SP
++> 
++> 发现有问题
++> 
++> 补了 2304 SP
++
++- 选对了显卡可以免驱，免折腾，免第三方驱动。
++- 选错显卡毁一生~
++- 强调注意 RX 580 的 流处理器问题（仅支持满血版 即 2304 SP），闲鱼大概 260 左右，非满血版 200 左右。
++- RX 580 默认都是矿卡 （其他请参考更多）
++
++### 雷雳 3 一体式 eGPU 产品
++-  Blackmagic eGPU 和 Blackmagic eGPU Pro
++-  Sonnet Radeon RX 570 eGFX Breakaway Puck
++-  Sonnet Radeon RX 560 eGFX Breakaway Puck
++- [博主自选] ***Gigabyte RX 580 Gaming Box*** 
++
++### AMD 系列
++- Radeon RX 6800、 6800XT、6900XT
++	- 推荐用于上述图形卡的雷雳 3 扩展配件：
++	-   Sonnet eGFX Breakaway Box 650W[4](https://support.apple.com/zh-cn/HT208544?caller=baiduansbx&cid=baiduansbx10#footnotes)
++	-   Razer Core X[4](https://support.apple.com/zh-cn/HT208544?caller=baiduansbx&cid=baiduansbx10#footnotes)
++- AMD Radeon RX 6600 XT
++- MacOS Monterey 12.1 或者以上
++	- 推荐使用的图形卡包括 Sapphire Nitro Radeon RX 6600 XT
++	- 推荐用于以下图形卡的雷雳 3 扩展配件：
++		-   Sonnet eGFX Breakaway Box 550W[4](https://support.apple.com/zh-cn/HT208544?caller=baiduansbx&cid=baiduansbx10#footnotes)
++		-   Razer Core X
++- 便宜但默认矿卡系列， 
++	- AMD Radeon RX 470、RX 480、RX 570、RX 580 和 Radeon Pro WX 7100
++	- 这些图形卡基于 AMD Polaris 架构。
++	- 推荐的图形卡包括 Sapphire Pulse 系列和 AMD WX 系列。
++	- 支持但是注意 RX 580
++	- 有流处理器之分，2304 SP & 2048 SP.
++	- 据说 Mac mini 2018 是不支持 2048 SP（别问我为什么知道 T_T ）
++- 还有更多，请查看连接 [苹果官方原文 Mac mini 2018（或 inter CPU 支持的显卡）](https://www.baidu.com/link?url=_e4-oJOVI7w_H0bedLVXjhT0uFbVv1snlowyqfmAQoyAPX2-2xm3pCOj2lDKSQxGKPM11NicqrE3xVWJKe7UXCbGhLI1ZJuQRKZpJIIc0ua-c-L5u01sbtqmOVGoyf9z&wd=&eqid=bcda126b00048fa70000000264094b16)
++
++##  怎么装
++
++- 怎么装显卡坞其实`逍遥君`给出了一个具体的视频，但是我觉得不够具体，这就是我为什么想写这篇文章的主要原因！
++
++# 结果
++
++- 待完结结果图（其实是好评图）
++
++## 引用
++
++- [技术UP花费三个月，自制B站最快雷电显卡坞_哔哩哔哩_bilibili](技术UP花费三个月，自制B站最快雷电显卡坞_哔哩哔哩_bilibili)
++- [逍遥君DIY的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/245020379?spm_id_from=333.337.search-card.all.click)
++- [苹果官方原文 Mac mini 2018（或 inter CPU 支持的显卡）](https://www.baidu.com/link?url=_e4-oJOVI7w_H0bedLVXjhT0uFbVv1snlowyqfmAQoyAPX2-2xm3pCOj2lDKSQxGKPM11NicqrE3xVWJKe7UXCbGhLI1ZJuQRKZpJIIc0ua-c-L5u01sbtqmOVGoyf9z&wd=&eqid=bcda126b00048fa70000000264094b16)
++- [装了显卡后如何 OS 上如何使用](https://support.apple.com/zh-cn/HT208544?caller=baiduansbx&cid=baiduansbx10#footnotes))
+\ No newline at end of file
+Index: config.toml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>baseURL = 'https://icarus-go.github.io'\nlanguageCode = 'zh-CN'\ntitle = 'Mr.Quinson Blog'\ntheme = 'paper'\npublishDir = \"docs\"\nisqusShortname = 'Quinson'   # use disqus comments\npaginate = 3\n\n[params]\n# color style\ncolor = 'linen'                           # linen, wheat, gray, light\n\n# header social icons\ngithub = 'icarus-go'                 # github.com/YOUR_GITHUB_ID\n\n# home page profile\navatar = 'https://s1.ax1x.com/2023/03/06/ppV3SbT.jpg'                 # gravatar email or image url\nname = 'Quinson'\nbio = '再给我两份葱,让我把鲫鱼煎成饼. (有问题可以通过邮箱和我联系)'\n\n\n# misc\ndisableHLJS = true                        # disable highlight.js\nmonoDarkIcon = true                       # show monochrome dark mode icon\ngravatarCdn = ''         # e.g. 'https://cdn.v2ex.com/gravatar/'\ngraphCommentId = \"\"  # use graph comment (disqus alternative)\n\n[menu]\n\n[[menu.main]]\nidentifier = \"Mac OS X\"\nname = \"Mac OS X\"\nurl = \"./tags/macos\"\nweight = 10\n\n[[menu.main]]\nidentifier = \"tags\"\nname = \"Menu\"\nurl = \"/tags/\"\nweight = 10
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/config.toml b/config.toml
+--- a/config.toml	(revision df8352da696afabf99a72a48782d6f4e20cbec4c)
++++ b/config.toml	(date 1678345105865)
+@@ -30,11 +30,11 @@
+ [[menu.main]]
+ identifier = "Mac OS X"
+ name = "Mac OS X"
+-url = "./tags/macos"
++url = "/tags/macos"
+ weight = 10
+ 
+ [[menu.main]]
+ identifier = "tags"
+ name = "Menu"
+ url = "/tags/"
+-weight = 10
+\ No newline at end of file
++weight = 10
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"VcsDirectoryMappings\">\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\n    <mapping directory=\"$PROJECT_DIR$/themes/hugo-paper\" vcs=\"Git\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision df8352da696afabf99a72a48782d6f4e20cbec4c)
++++ b/.idea/vcs.xml	(date 1678345473278)
+@@ -2,6 +2,5 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/themes/hugo-paper" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"ALL\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f81ecf85-cd77-4a66-80a3-7e8deeae6c6b\" name=\"变更\" comment=\"feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL\">\n      <change afterPath=\"$PROJECT_DIR$/content/posts/_index.md\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/layouts/taxonomy/tag.terms.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/config.toml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/config.toml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/content/posts/about.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/content/posts/about.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/content/posts/builder_log.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/content/posts/builder_log.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/content/posts/contact.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/content/posts/contact.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/content/quote/hello.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/content/quote/hello.md\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/404.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/apple-touch-icon.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/categories/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/categories/index.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/categories/page/1/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/categories/pc/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/categories/pc/index.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/categories/pc/page/1/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/favicon.ico\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/github.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/highlight.min.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/index.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/instagram.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/main.min.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/mastodon.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/page/1/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/about-hugo/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/about-us/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/about/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/contact/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/homebrew/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/index.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/posts/page/1/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/rss.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/sitemap.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/tags/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/tags/index.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/tags/macos/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/tags/macos/index.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/tags/macos/page/1/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/tags/page/1/index.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/theme.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/theme.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/docs/twitter.svg\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/themes/paper/layouts/_default/single.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/themes/paper/layouts/_default/single.html\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Go File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"GOROOT\" url=\"file://$PROJECT_DIR$/../go/go1.18.8\" />\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"JsbtTreeLayoutManager\">\n    <layout place=\"tools.popupGrunt\">\n      <scroll-view-position x=\"0\" y=\"0\" />\n    </layout>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2MbYdxId29MF9ZbSE6EHvSHxMOx\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"compactDirectories\" value=\"true\" />\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n    <option name=\"showMembers\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"DefaultGoTemplateProperty\": \"Go File\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.go.formatter.settings.were.checked\": \"true\",\n    \"RunOnceActivity.go.migrated.go.modules.settings\": \"true\",\n    \"RunOnceActivity.go.modules.go.list.on.any.changes.was.set\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"app.teamhub.trackedBranches\": \"bht3uj/master\",\n    \"go.import.settings.migrated\": \"true\",\n    \"go.sdk.automatically.set\": \"true\",\n    \"last_opened_file_path\": \"/Users/quinson/icarus-go.github.io\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.stylelint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.stylelint\": \"\",\n    \"nodejs_package_manager_path\": \"pnpm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n      <recent name=\"$PROJECT_DIR$/content/posts\" />\n      <recent name=\"$PROJECT_DIR$/content\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/content/posts\" />\n      <recent name=\"$PROJECT_DIR$/content/posts/private\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"feat: init project&#10;&#10;- first commit\" />\n    <MESSAGE value=\"feat: init project&#10;&#10;fix:&#10;&#10;- baseURL\" />\n    <MESSAGE value=\"feat: init project&#10;&#10;fix:&#10;&#10;- fix base URL\" />\n    <MESSAGE value=\"feat: init project&#10;&#10;fix:&#10;&#10;- fix generate directory to docs\" />\n    <MESSAGE value=\"feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL\" />\n  </component>\n  <component name=\"VgoProject\">\n    <settings-migrated>true</settings-migrated>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision df8352da696afabf99a72a48782d6f4e20cbec4c)
++++ b/.idea/workspace.xml	(date 1678345836927)
+@@ -5,14 +5,10 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL">
+-      <change afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/layouts/taxonomy/tag.terms.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/content/posts/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/about.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/content/posts/builder_log.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/builder_log.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/content/posts/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/contact.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/content/quote/hello.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/quote/hello.md" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/content/macosx/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/macosx/install.md" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/apple-touch-icon.png" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" />
+@@ -21,23 +17,35 @@
+       <change beforePath="$PROJECT_DIR$/docs/categories/pc/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/categories/pc/index.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/categories/pc/page/1/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/categories/基础信息/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/categories/基础信息/index.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/categories/基础信息/page/1/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/github.svg" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/highlight.min.js" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/instagram.svg" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/macosx/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/macosx/index.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/macosx/install/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/macosx/page/1/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/main.min.css" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/mastodon.svg" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/docs/posts/about-hugo/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/docs/posts/about-us/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/posts/about/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/posts/builder_log/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/posts/contact/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/posts/homebrew/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/posts/page/2/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/quote/hello/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/quote/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/quote/index.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/quote/page/1/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/rss.svg" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" />
+@@ -46,10 +54,12 @@
+       <change beforePath="$PROJECT_DIR$/docs/tags/macos/index.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/tags/macos/page/1/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/tags/基础信息/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/tags/基础信息/index.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/docs/tags/基础信息/page/1/index.html" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/theme.png" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/theme.svg" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/docs/twitter.svg" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/themes/paper/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/paper/layouts/_default/single.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -67,6 +77,12 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitToolBoxStore">
++    <option name="projectConfigVersion" value="5" />
++  </component>
++  <component name="GoLibraries">
++    <option name="indexEntireGoPath" value="true" />
++  </component>
+   <component name="JsbtTreeLayoutManager">
+     <layout place="tools.popupGrunt">
+       <scroll-view-position x="0" y="0" />
+@@ -94,7 +110,7 @@
+     "app.teamhub.trackedBranches": "bht3uj/master",
+     "go.import.settings.migrated": "true",
+     "go.sdk.automatically.set": "true",
+-    "last_opened_file_path": "/Users/quinson/icarus-go.github.io",
++    "last_opened_file_path": "/Users/kevin/go/src/github.com/icarus-go/icarus-go.github.io",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.stylelint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+@@ -115,6 +131,16 @@
+     </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="默认任务">
++      <changelist id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL" />
++      <created>1678345428479</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1678345428479</updated>
++    </task>
++    <servers />
++  </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
+@@ -138,6 +164,7 @@
+     <option name="LAST_COMMIT_MESSAGE" value="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL" />
+   </component>
+   <component name="VgoProject">
++    <integration-enabled>false</integration-enabled>
+     <settings-migrated>true</settings-migrated>
+   </component>
+ </project>
+\ No newline at end of file

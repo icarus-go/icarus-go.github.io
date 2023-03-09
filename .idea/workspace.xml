@@ -5,51 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f81ecf85-cd77-4a66-80a3-7e8deeae6c6b" name="变更" comment="feat: init project&#10;&#10;fix:&#10;&#10;- fix baseURL">
-      <change afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/taxonomy/tag.terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/builder_log.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/builder_log.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/quote/hello.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/quote/hello.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/pc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/pc/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/pc/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/highlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/main.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/mastodon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/about-hugo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/about-us/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/homebrew/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/rss.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/macos/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/macos/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/macos/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/paper/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/paper/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/highlightedFiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/icarus-go.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2023_3_9__15_41____.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023_3_9,_15_41_取消提交了变更_[变更]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/core-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/hotkeys.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/markdown-prettifier/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/markdown-prettifier/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/markdown-prettifier/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-gpt/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-gpt/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/pc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/pc/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/pc/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/基础信息/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/基础信息/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/categories/基础信息/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/highlight.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/macosx/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/macosx/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/macosx/install/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/macosx/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/main.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/mastodon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/builder_log/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/homebrew/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/posts/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/quote/hello/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/quote/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/quote/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/quote/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/macos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/macos/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/macos/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/基础信息/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/基础信息/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tags/基础信息/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/theme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/theme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/macosx/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/macosx/install.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,27 +110,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "app.teamhub.trackedBranches": "bht3uj/master",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/quinson/icarus-go.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "nodejs_package_manager_path": "pnpm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;app.teamhub.trackedBranches&quot;: &quot;bht3uj/master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/quinson/icarus-go.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -115,6 +143,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>

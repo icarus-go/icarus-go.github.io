@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "b20433ad142bf0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a163aeadd46b4f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aadc0fea5dc08546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/macosx/install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ea764e5cd6ebccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c981bb772791e9b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795b8520e6128b3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80cd2e3968a02b16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6604d71a8b105f19",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "912d22717f068b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd849cfcd9036df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c6f57b5b6071ca5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/macosx/install.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a398d7291a900ae5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/macosx/install.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ba328ac87c04a33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf66f1f7e8a7b324",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/macosx/install.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "cf66f1f7e8a7b324",
+  "lastOpenFiles": [
+    "docs/tags/基础信息/page/1/index.html",
+    "docs/tags/macos/page/1/index.html",
+    "docs/categories/pc/page/1/index.html",
+    "docs/categories/基础信息/page/1/index.html",
+    "docs/tags/基础信息/page/1",
+    "docs/tags/macos/page/1",
+    "docs/quote/page/1/index.html",
+    "docs/posts/page/2/index.html",
+    "docs/posts/page/1/index.html",
+    "docs/macosx/page/1/index.html",
+    "docs/categories/基础信息/page/1",
+    "docs/twitter.svg",
+    "docs/theme.svg",
+    "docs/theme.png",
+    "docs/rss.svg",
+    "docs/mastodon.svg",
+    "docs/instagram.svg",
+    "docs/github.svg",
+    "docs/apple-touch-icon.png",
+    "content/posts/builder_log.md",
+    "content/posts/contact.md",
+    "content/posts/homebrew.md",
+    "content/posts/about.md",
+    "content/posts/_index.md",
+    "content/macosx/install.md"
+  ]
+}
