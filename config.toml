@@ -30,7 +30,7 @@ graphCommentId = ""  # use graph comment (disqus alternative)
 [[menu.main]]
 identifier = "Mac OS X"
 name = "Mac OS X"
-url = "./tags/macos"
+url = "/tags/macos"
 weight = 10
 
 [[menu.main]]

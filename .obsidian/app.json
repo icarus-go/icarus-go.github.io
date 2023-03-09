@@ -2,5 +2,6 @@
   "strictLineBreaks": true,
   "showFrontmatter": true,
   "spellcheck": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

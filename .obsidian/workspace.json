@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a163aeadd46b4f5f",
+        "id": "84607b580bb96fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "aadc0fea5dc08546",
+            "id": "8b070175221e5f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,20 +149,22 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "aadc0fea5dc08546",
+  "active": "8b070175221e5f36",
   "lastOpenFiles": [
-    "511678348866_.pic.jpg",
-    "docs/tags/基础信息/page/1/index.html",
+    "docs/index.xml",
+    "docs/macosx/index.xml",
+    "docs/404.html",
+    "docs/sitemap.xml",
     "docs/tags/macos/page/1/index.html",
-    "docs/categories/pc/page/1/index.html",
-    "docs/categories/基础信息/page/1/index.html",
-    "docs/tags/基础信息/page/1",
+    "docs/tags/基础信息/page/1/index.html",
     "docs/tags/macos/page/1",
-    "docs/quote/page/1/index.html",
-    "docs/posts/page/2/index.html",
-    "docs/posts/page/1/index.html",
-    "docs/macosx/page/1/index.html",
+    "docs/tags/基础信息/page/1",
+    "docs/tags/macos/page",
+    "docs/tags/基础信息/page",
+    "docs/tags/基础信息/index.xml",
     "docs/twitter.svg",
+    "docs/macosx/test001.jpg",
+    "docs/images/test002.jpg",
     "docs/theme.svg",
     "docs/theme.png",
     "docs/rss.svg",
@@ -170,11 +172,16 @@
     "docs/instagram.svg",
     "docs/github.svg",
     "docs/apple-touch-icon.png",
+    "未命名.md",
+    "content/macosx/install.md",
+    "content/jobs/company/2023-job_summary.md",
+    "images/511678348866_.pic.jpg.md",
+    "511678348866_.pic.jpg.md",
+    "content/jobs/company/未命名.md",
     "content/posts/builder_log.md",
     "content/posts/contact.md",
     "content/posts/homebrew.md",
     "content/posts/about.md",
-    "content/posts/_index.md",
-    "content/macosx/install.md"
+    "content/posts/_index.md"
   ]
 }
