@@ -18,26 +18,11 @@
     
     <item>
       <title>Mac mini 2018 装显卡坞的折腾之旅</title>
-      <link>https://icarus-go.github.io/macosx/install/</link>
+      <link>https://icarus-go.github.io/macosx/egpu-install/</link>
       <pubDate>Tue, 07 Mar 2023 00:22:52 +0800</pubDate>
       
-      <guid>https://icarus-go.github.io/macosx/install/</guid>
-      <description>起因 卡顿
-玩 android 模拟器有点卡 用网页云游戏玩的也卡 打开自家开发的 CRM 前端页面也卡 无法跑 AI 模型
-简单的 进而怒从胆边生，决定购置一款显卡，但是我是 Mac mini, 只能选择外接显卡的方式了。
-凭借 CS （叉腰）专业，决定先买一款显卡坞，刚好了解到 B 站有 Up 主自制了一款显卡坞，所以决定入手一试。 需要的东西
-显卡 显卡扩展坞 电源 步骤
-选显卡 下面的步骤告诉你怎么选。 选电源 注意选好电源尺寸（ATX/ M ATX &amp;hellip; ） 根据显卡来挑选应该具有显卡 外饰 显卡坞如果没有相关的盒子可以考虑买个M ITX 机箱来存放，粗放一点的可以放开放式机箱。 24pin短接器 拼多多一搜就有，3-4￥ 可以用口罩的铁丝、曲别针等类似铁丝线的东西。 装配 目标
-无 windows 需求 &amp;amp; 能够在 Mac mini 上稳定运行模拟器等相关软件。 有 windows 需求的，博主没实操过，不知道。 经过 选显卡坞 市面上有很多款显卡坞，有的支持 1660X 以上的，也有的不支持的。 我大概扫了一眼，觉得稍微好看一点（装逼）的都要 2k 左右，实在不符合我的人设（贫穷），所以我看到 逍遥君 自制的 这款显卡坞，我才觉得是那么亲切（便宜），性能还挺高，损耗也比较少（我没实测，我不在乎损耗，大概上感觉不会比贵东西差多少），按照 逍遥君的说法是，比一般的显卡坞更强。 毫无疑问，就它了， 价格好像是才 600￥，配件包括，显卡坞，支架，雷电线。 选显卡 AMD RX 580 2304 SP !</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://icarus-go.github.io/quote/hello/</link>
-      <pubDate>Mon, 06 Mar 2023 23:35:41 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/quote/hello/</guid>
-      <description></description>
+      <guid>https://icarus-go.github.io/macosx/egpu-install/</guid>
+      <description>起因 卡顿 玩 android 模拟器有点卡 用网页云游戏玩的也卡 打开自家开发的 CRM 前端页面也卡 无法跑 AI 模型 简单的 进而怒从胆边生，决定购置一款显卡，但是我是 Mac mini, 只能选择外接显卡的方式了。 凭借 CS （叉腰）专业，决定先买一款显卡坞，刚好了解到 B 站有 Up 主自制了一款显卡坞，所以决定入手一试。 需要的东西 显卡 显卡扩展坞 电源 24pin短接器 拼多多一搜就有，3-4￥ 可以用口罩的铁丝、曲别针等类似铁丝线的东西。 步骤 选显卡 下面的步骤告诉你怎么选。 选电源 注意选好电源尺寸（ATX/ M ATX &amp;hellip; ） 根据显卡来挑选应该具有显卡 选外饰 显卡坞如果没有相关的盒子可以考虑买个M ITX 机箱来存放，粗放一点的可以放开放式机箱。 手动装配 目标 无 windows 需求 &amp;amp; 能够在 Mac mini 上稳定运行模拟器等相关软件。 有 windows 需求的，博主没实操过，不知道。 经过 选显卡坞 市面上有很多款显卡坞，有的支持 1660X 以上的，也有的不支持的。 我大概扫了一眼，觉得稍微好看一点（装逼）的都要 2k 左右，实在不符合我的人设（贫穷），所以我看到 逍遥君 自制的 这款显卡坞，我才觉得是那么亲切（便宜），性能还挺高，损耗也比较少（我没实测，我不在乎损耗，大概上感觉不会比贵东西差多少），按照 逍遥君的说法是，比一般的显卡坞更强。 毫无疑问，就它了， 价格好像是才 600￥，配件包括，显卡坞，支架，雷电线。 选显卡 AMD RX 580 2304 SP !</description>
     </item>
     
     <item>

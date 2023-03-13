@@ -16,23 +16,22 @@ series: ["硬件"]
 	- 简单的
 - 进而怒从胆边生，决定购置一款显卡，但是我是 Mac mini, 只能选择外接显卡的方式了。
 	- 凭借 CS （叉腰）专业，决定先买一款显卡坞，刚好了解到 B 站有 Up 主自制了一款显卡坞，所以决定入手一试。
-
 - 需要的东西
 	- 显卡
 	- 显卡扩展坞
 	- 电源
+	- 24pin短接器
+		- 拼多多一搜就有，3-4￥
+		- 可以用口罩的铁丝、曲别针等类似铁丝线的东西。
 - 步骤
 	- 选显卡
 		- 下面的步骤告诉你怎么选。
 	- 选电源
 		- 注意选好电源尺寸（ATX/ M ATX ... ）
 		- 根据显卡来挑选应该具有显卡
-	- 外饰	
+	- 选外饰
 		- 显卡坞如果没有相关的盒子可以考虑买个M ITX 机箱来存放，粗放一点的可以放开放式机箱。
-	- 24pin短接器
-		- 拼多多一搜就有，3-4￥
-		- 可以用口罩的铁丝、曲别针等类似铁丝线的东西。
-	- 装配
+	- 手动装配
 - 目标
 	- 无 windows 需求 & 能够在 Mac mini 上稳定运行模拟器等相关软件。
 	- 有 windows 需求的，博主没实操过，不知道。
@@ -79,9 +78,7 @@ series: ["硬件"]
 		- 据说 Mac mini 2018 是不支持 2048 SP（别问我为什么知道 T_T ）
 - 还有更多，请查看连接 [苹果官方原文 Mac mini 2018（或 inter CPU 支持的显卡）](https://www.baidu.com/link?url=_e4-oJOVI7w_H0bedLVXjhT0uFbVv1snlowyqfmAQoyAPX2-2xm3pCOj2lDKSQxGKPM11NicqrE3xVWJKe7UXCbGhLI1ZJuQRKZpJIIc0ua-c-L5u01sbtqmOVGoyf9z&wd=&eqid=bcda126b00048fa70000000264094b16)
 
-##  怎么装
 
-- 怎么装显卡坞其实`逍遥君`给出了一个具体的视频，但是我觉得不够具体，这就是我为什么想写这篇文章的主要原因！
 
 # 结果
 
@@ -95,3 +92,8 @@ series: ["硬件"]
 - [逍遥君DIY的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/245020379?spm_id_from=333.337.search-card.all.click)
 - [苹果官方原文 Mac mini 2018（或 inter CPU 支持的显卡）](https://www.baidu.com/link?url=_e4-oJOVI7w_H0bedLVXjhT0uFbVv1snlowyqfmAQoyAPX2-2xm3pCOj2lDKSQxGKPM11NicqrE3xVWJKe7UXCbGhLI1ZJuQRKZpJIIc0ua-c-L5u01sbtqmOVGoyf9z&wd=&eqid=bcda126b00048fa70000000264094b16)
 - [装了显卡后如何 OS 上如何使用](https://support.apple.com/zh-cn/HT208544?caller=baiduansbx&cid=baiduansbx10#footnotes))
+
+
+
+
+obsidian://open?vault=icarus-go.github.io&file=content%2Fmacosx%2Finstall

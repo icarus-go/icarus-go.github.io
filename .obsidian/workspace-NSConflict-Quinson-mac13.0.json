@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "328804ed13e0521f",
+        "id": "54a8fc2b0abce7dd",
         "type": "tabs",
         "children": [
           {
-            "id": "98af850a57612dc3",
+            "id": "d2caefa3b1c184f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/jobs/frontend/html5/head.md",
+                "file": "content/jobs/company/2023-job_summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/jobs/frontend/html5/head.md",
+                "file": "content/jobs/company/2023-job_summary.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/jobs/frontend/html5/head.md",
+                "file": "content/jobs/company/2023-job_summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,19 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/jobs/frontend/html5/head.md"
+                "file": "content/jobs/company/2023-job_summary.md"
               }
             }
-          },
-          {
-            "id": "0d712668600b7c0b",
-            "type": "leaf",
-            "state": {
-              "type": "gptModelSettings",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,34 +145,28 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "terminal:Open terminal": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "795b8520e6128b3b",
+  "active": "d2caefa3b1c184f9",
   "lastOpenFiles": [
-    "content/jobs/company/2023-job_summary.md",
-    "content/jobs/frontend/html5/head.md",
-    "themes/paper/exampleSite/content/post/markdown-syntax.md",
-    "content/quote/hello.md",
-    "content/jobs/frontend/js",
-    "content/jobs/frontend/未命名/000_坚果云闪电下载介绍.url.nssyncsc",
-    "content/jobs/frontend/css3",
-    "content/jobs/frontend/html5",
-    "content/jobs/frontend",
+    "未命名.nssyncsc",
+    "2023-03-11.nssyncsc",
     "content/macosx/eGPU-install.md",
-    "Pasted image 20230312025359.png",
-    "Pasted image 20230312025359.nssyncsc",
-    "content/jobs/company/2023-job_summary.nssyncsc",
-    "docs/macosx/egpu-install/index.html",
-    "docs/macosx/egpu-install/index.nssyncsc",
-    "docs/macosx/egpu-install/000_坚果云闪电下载介绍.url.nssyncsc",
-    "未命名.canvas",
-    "2023-03-11.md",
+    "content/jobs/company/2023-job_summary.md",
     "content/images/test002.jpg",
     "content/posts/builder_log.md",
     "themes/paper/exampleSite/README.md",
     "content/macosx/test001.jpg",
+    "docs/index.xml",
+    "docs/macosx/index.xml",
+    "docs/404.html",
+    "docs/sitemap.xml",
+    "docs/tags/macos/page/1/index.html",
+    "docs/tags/基础信息/page/1/index.html",
+    "docs/tags/macos/page/1",
+    "docs/tags/基础信息/page/1",
+    "docs/tags/macos/page",
     "docs/twitter.svg",
     "docs/macosx/test001.jpg",
     "docs/images/test002.jpg",
@@ -187,6 +174,7 @@
     "docs/theme.png",
     "docs/rss.svg",
     "docs/mastodon.svg",
+    "docs/instagram.svg",
     "未命名.md",
     "images/511678348866_.pic.jpg.md",
     "511678348866_.pic.jpg.md",
