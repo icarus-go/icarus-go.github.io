@@ -1,7 +1,7 @@
 ---
 title: "Head"
 date: 2023-03-14T00:07:23+08:00
-draft: true
+draft: false
 tags:
   - frontend
 categories:
@@ -9,8 +9,6 @@ categories:
 series:
   - 前端技术
 ---
-
-# Head
 
 - <head> 元素包含了所有的头部标签元素。
 - 在 ` <head>` 元素中你可以插入脚本（scripts）, 样式文件（CSS），及各种meta信息。
@@ -39,6 +37,9 @@ series:
 - 设置编码格式
 ```html
 <head>
-	<meta charset="utf-8">
+	<meta charset="utf-8" />
+	<title> .... </title>
 </head>
 ```
+
+
