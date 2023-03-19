@@ -53,12 +53,14 @@ date updated: 2023-03-11 23:17
 | 2.5 | 1 | 
 | 3 | 2 | 
 
+
+
 ```chart
     type: pie
-    labels: [0故事点,0.5故事点,1故事点,1.5故事点,2故事点,2.5故事点,3故事点]
+    labels: [0故事点,0.5故事点,1故事点,1.5故事点,2故事点,2.5故事点,3故事点,空故事点]
     series:
       - title: 本周新增项目比例
-        data: [5,8,2,3,4,1,2]
+        data: [5,8,2,4,5,1,2,7]
     tension: 0.2
     width: 50%
     labelColors: true
@@ -110,6 +112,49 @@ date updated: 2023-03-11 23:17
 		- 再根据，开发同学出的分析文档和测试用例进行碰撞，对比测试的点和技术的文档当中有无差异，对流程的理解是不是对的，最后再重合开发测试，进而达到了减少 bug 的目的。
 		- bug 无法避免，我们的问题还是有很多的，我们也还在努力的道路上。
 	- bug 总数占到了bug 数的 32%，这个数量还是有些多的，我个人会尽可能的在减少 bug 数量的道路上更好的要求自己。
+```chart
+type: bar
+labels: [需求 bug 分布情况]
+series:
+  - title: 渠道活码
+    data: [23]
+  - title: telesale重构转介绍
+    data: [7]
+  - title: telesale网关
+    data: [5]
+  - title: 薪酬优化
+    data: [5]
+  - title: 飞书卡片报警
+    data: [2]
+  - title: 积分转移
+    data: [2]
+  - title: 暖暖H5
+    data: [1]
+  - title: 坐席查询优化
+    data: [1]
+  - title: 版本更新系统提醒全员
+    data: [1]
+  - title: 呼叫记录明文查看功能
+    data: [1]
+  - title: 蘑菇云外呼接入
+    data: [1]
+  - title: 专属飞书提醒优化
+    data: [1]
+  - title: 礼品卡
+    data: [1]
+  - title: 当配统计
+    data: [3]
+tension: 0.2
+width: 80%
+labelColors: false
+fill: false
+beginAtZero: false
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
+```
+
+
 
 ## 半年度复盘
 ### 学习成长

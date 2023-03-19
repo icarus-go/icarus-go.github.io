@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "415cf2f30df56337",
+        "id": "ef947dda9878c039",
         "type": "tabs",
         "children": [
           {
-            "id": "74d4e4f969aaaa27",
+            "id": "96fbcd24b02acc45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/jobs/frontend/html5/media.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/jobs/frontend/html5/media.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/jobs/frontend/html5/media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/jobs/frontend/html5/media.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +147,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "74d4e4f969aaaa27",
+  "active": "96fbcd24b02acc45",
   "lastOpenFiles": [
-    "content/jobs/frontend/html5/html.md",
-    "content/jobs/frontend/html5/media.md",
-    "content/jobs/frontend/html5/head.md",
     "content/jobs/frontend/html5/form.md",
-    "content/jobs/frontend/html5/常用标签.md",
-    "content/jobs/company/2023-job_summary.md",
-    "content/jobs/company/2023-job_summary.nssyncsc",
     "content/jobs/frontend/html5/form.nssyncsc",
     "content/jobs/frontend/html5/table.md",
     "content/jobs/frontend/html5/table.nssyncsc",
@@ -176,12 +161,16 @@
     "content/jobs/frontend/html5/未命名.nssyncsc",
     "content/jobs/frontend/html5/path.md",
     "content/jobs/frontend/html5/path.nssyncsc",
+    "content/jobs/frontend/html5/常用标签.md",
     "content/jobs/frontend/html5/常用标签.nssyncsc",
+    "content/jobs/frontend/html5/head.md",
     "content/jobs/frontend/html5/标题.md",
+    "content/jobs/company/2023-job_summary.md",
     "themes/paper/exampleSite/content/post/markdown-syntax.md",
     "content/quote/hello.md",
     "content/jobs/frontend/js",
     "content/jobs/frontend/未命名/000_坚果云闪电下载介绍.url.nssyncsc",
+    "content/jobs/frontend/css3",
     "content/macosx/eGPU-install.md",
     "Pasted image 20230312025359.png",
     "未命名.canvas",
