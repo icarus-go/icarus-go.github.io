@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mr.Quinson Blog</title>
-    <link>https://icarus-go.github.io/</link>
-    <description>Recent content on Mr.Quinson Blog</description>
+    <title>frontend on Mr.Quinson Blog</title>
+    <link>https://icarus-go.github.io/tags/frontend/</link>
+    <description>Recent content in frontend on Mr.Quinson Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 20 Mar 2023 02:14:13 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://icarus-go.github.io/posts/about/</link>
-      <pubDate>Mon, 06 Mar 2023 22:24:35 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/posts/about/</guid>
-      <description>package main import &amp;#34;fmt&amp;#34; func main() { var skill = []string{ &amp;#34;Go&amp;#34;, &amp;#34;Java&amp;#34;, &amp;#34;Docker&amp;#34;, &amp;#34;Postgres&amp;#34;, &amp;#34;MySQL&amp;#34;, &amp;#34;Redis&amp;#34;, &amp;#34;Kafka&amp;#34;, &amp;#34;RabbitMQ&amp;#34;, &amp;#34;Linux&amp;#34;, &amp;#34;Git&amp;#34;, } fmt.Println(&amp;#34;Name 蔡昆森&amp;#34;) fmt.Println(&amp;#34;Birthday 1996/06/19&amp;#34;) fmt.Println(&amp;#34;Gender Man&amp;#34;) fmt.Println(&amp;#34;Email kevinicarus@163.com&amp;#34;) fmt.Println(&amp;#34;From China GuangDong ShanTou&amp;#34;) fmt.Printf(&amp;#34;Skill %v\n&amp;#34;, skill) fmt.Sprintf(&amp;#34;Want %v&amp;#34;, []string{&amp;#34;网站构建&amp;#34;, &amp;#34;微服务&amp;#34;, &amp;#34;AI&amp;#34;, &amp;#34;大数据&amp;#34;, &amp;#34;区块链&amp;#34;}) } </description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Mar 2023 02:14:13 +0800</lastBuildDate><atom:link href="https://icarus-go.github.io/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Media</title>
       <link>https://icarus-go.github.io/jobs/frontend/html5/media/</link>
@@ -27,15 +18,6 @@ type 是mime类型
 MIME（Multipurpose Internet Mail Extensions）类型是一种用于指定Web浏览器和其他Internet应用程序中的内容类型的标准标识符。以下是常见的MIME类型： text/plain：纯文本文件 text/html：HTML文件 application/json：JSON文件 image/jpeg：JPEG图片 image/png：PNG图片 image/gif：GIF图片 audio/mpeg：MP3音频文件 video/mp4：MP4视频文件 application/pdf：PDF文件 application/msword：Microsoft Word文件 application/vnd.ms excel：Microsoft Excel文件 - application/vnd.ms powerpoint：Microsoft PowerPoint文件 application/zip：ZIP压缩文件 width 宽
 height 高
 audio 音频类 audio 标签是 HTML5 新增的标签，用于在 web 页面中嵌入音频文件。通过设置 src 属性，将音频文件的链接地址指定给 audio 标签，控制台就可以播放音频文件了。 attribute src controls 显示播放器控件，播放暂停音量等 autoplay 是否自动播放 loop 循环播放 循环播放次数 -1 无限 播放 preload 预加载音频 muted 静音播放 volume 音量大小，值为 0.</description>
-    </item>
-    
-    <item>
-      <title>Path</title>
-      <link>https://icarus-go.github.io/jobs/frontend/html5/path/</link>
-      <pubDate>Tue, 14 Mar 2023 23:21:15 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/jobs/frontend/html5/path/</guid>
-      <description>绝对路径 C:\xxx /abc https://pics1.baidu.com/feed/b8014a90f603738db943e3c0f3ed6c5afa19eccd.jpeg@f_auto?token=6219f298aaa142c2c2c3144814f97747 相对路径 ./../images/pathxx </description>
     </item>
     
     <item>
@@ -72,42 +54,6 @@ audio 音频类 audio 标签是 HTML5 新增的标签，用于在 web 页面中�
       
       <guid>https://icarus-go.github.io/jobs/frontend/html5/table/</guid>
       <description>表格 &amp;lt;table&amp;gt; &amp;lt;caption&amp;gt; 标题 &amp;lt;tbody&amp;gt; &amp;lt;tr&amp;gt; 行 &amp;lt;td&amp;gt; 列 rowspan 合并行 colspan 合并列 &amp;lt;th&amp;gt; 表头 &amp;lt;thead&amp;gt; &amp;lt;tfoot&amp;gt; 可以放统计的信息 attribute width cellspacing height align = &amp;ldquo;center&amp;rdquo; </description>
-    </item>
-    
-    <item>
-      <title>Mac mini 2018 装显卡坞的折腾之旅</title>
-      <link>https://icarus-go.github.io/macosx/egpu-install/</link>
-      <pubDate>Tue, 07 Mar 2023 00:22:52 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/macosx/egpu-install/</guid>
-      <description>起因 卡顿 玩 android 模拟器有点卡 用网页云游戏玩的也卡 打开自家开发的 CRM 前端页面也卡 无法跑 AI 模型 简单的 进而怒从胆边生，决定购置一款显卡，但是我是 Mac mini, 只能选择外接显卡的方式了。 凭借 CS （叉腰）专业，决定先买一款显卡坞，刚好了解到 B 站有 Up 主自制了一款显卡坞，所以决定入手一试。 需要的东西 显卡 显卡扩展坞 电源 24pin短接器 拼多多一搜就有，3-4￥ 可以用口罩的铁丝、曲别针等类似铁丝线的东西。 步骤 选显卡 下面的步骤告诉你怎么选。 选电源 注意选好电源尺寸（ATX/ M ATX &amp;hellip; ） 根据显卡来挑选应该具有显卡 选外饰 显卡坞如果没有相关的盒子可以考虑买个M ITX 机箱来存放，粗放一点的可以放开放式机箱。 手动装配 目标 无 windows 需求 &amp;amp; 能够在 Mac mini 上稳定运行模拟器等相关软件。 有 windows 需求的，博主没实操过，不知道。 经过 选显卡坞 市面上有很多款显卡坞，有的支持 1660X 以上的，也有的不支持的。 我大概扫了一眼，觉得稍微好看一点（装逼）的都要 2k 左右，实在不符合我的人设（贫穷），所以我看到 逍遥君 自制的 这款显卡坞，我才觉得是那么亲切（便宜），性能还挺高，损耗也比较少（我没实测，我不在乎损耗，大概上感觉不会比贵东西差多少），按照 逍遥君的说法是，比一般的显卡坞更强。 毫无疑问，就它了， 价格好像是才 600￥，配件包括，显卡坞，支架，雷电线。 选显卡 AMD RX 580 2304 SP !</description>
-    </item>
-    
-    <item>
-      <title>Contact me</title>
-      <link>https://icarus-go.github.io/posts/contact/</link>
-      <pubDate>Mon, 06 Mar 2023 22:24:35 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/posts/contact/</guid>
-      <description> github.com/icarus-go Email: kevinicarus@163.com </description>
-    </item>
-    
-    <item>
-      <title>Homebrew下载过慢解决方案</title>
-      <link>https://icarus-go.github.io/posts/homebrew/</link>
-      <pubDate>Mon, 06 Mar 2023 22:24:35 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/posts/homebrew/</guid>
-      <description>Switch home brew git repo 切到 homebrew 目录 cd &amp;#34;$(brew --repo)&amp;#34; 如果你需要查看当前目录下,已经使用了哪些源,可以使用, 初始化状态下是 github git remote -v 删除源 git remote rm origin 添加阿里源 git remote add origin https://mirrors.aliyun.com/homebrew/brew.git 切换阿里源 git remote set-url origin https://mirrors.aliyun.com/homebrew/brew.git 切换到 homebrew core 目录 cd &amp;#34;$(brew --repo)/Library/Taps/homebrew/homebrew-core&amp;#34; 删除源 git remote rm origin 更新源 # 添加源 git remote add origin https://mirrors.aliyun.com/homebrew/homebrew-core.git # 切换成阿里源： git remote set-url origin https://mirrors.aliyun.com/homebrew/homebrew-core.git homebrew-bottles (主要负责 cask, 即 GUI ) cd &amp;#34;$(brew --repo)&amp;#34;/Library/Taps/homebrew/homebrew-cask 删除源 git remote rm origin 更新源 阿里云没有提供 cask 源, 下列提供可替换的源 Homebrew 官方源（https://github.</description>
-    </item>
-    
-    <item>
-      <title>博客构建日志</title>
-      <link>https://icarus-go.github.io/posts/builder_log/</link>
-      <pubDate>Mon, 06 Mar 2023 22:24:35 +0800</pubDate>
-      
-      <guid>https://icarus-go.github.io/posts/builder_log/</guid>
-      <description>How builder your blog ? hugo github account github repository Github Account 创建 github repo, repo name &amp;lt;your account name&amp;gt;.github.io 例: icarus-go.github.io Download Hugo Mac OS X 建议使用 homebrew 安装 解决 homebrew 下载过慢 brew install hugo </description>
     </item>
     
   </channel>
