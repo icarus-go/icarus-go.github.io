@@ -25,7 +25,7 @@ series:
 			- attribute
 				- selected="selected" 选中效果
 		- `<textarea>` 文本域
-		- `<input>` 
+		-  `<input>` 
 			- type
 				- text 文本框
 				- password 密码框

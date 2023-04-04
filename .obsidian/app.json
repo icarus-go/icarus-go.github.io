@@ -4,5 +4,6 @@
   "spellcheck": false,
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "promptDelete": false
 }

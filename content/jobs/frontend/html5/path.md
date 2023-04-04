@@ -2,6 +2,12 @@
 title: "Path"
 date: 2023-03-14T23:21:15+08:00
 draft: false
+tags:
+  - frontend
+categories:
+  - Work
+series:
+  - 前端技术
 ---
 
 # 绝对路径
